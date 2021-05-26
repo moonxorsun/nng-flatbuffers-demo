@@ -1,3 +1,0 @@
-/home/sanqian/git-projects/nng-flatbuffers-demo/cpp/build/CMakeFiles/rebuild_cache.dir
-/home/sanqian/git-projects/nng-flatbuffers-demo/cpp/build/CMakeFiles/test_nng.dir
-/home/sanqian/git-projects/nng-flatbuffers-demo/cpp/build/CMakeFiles/edit_cache.dir
