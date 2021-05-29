@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/test_nng.dir/test_nng.cpp.o  -o test_nng  -L/home/sanqian/git-projects/nng-flatbuffers-demo/cpp/lib -Wl,-rpath,/home/sanqian/git-projects/nng-flatbuffers-demo/cpp/lib -lnng 
